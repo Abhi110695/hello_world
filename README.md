@@ -1,2 +1,2 @@
 # hello_world
-My first repository
+These are the changes proposed by me
